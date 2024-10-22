@@ -3,7 +3,7 @@
 
 ## Objective
 
-Working in Linux Bash shell to revise file permissions and adding user into the system with the correct access.  
+Working in Linux Bash shell to revise file permissions, add user into the system, and assign user to group(s).  
 
 ### Skills Learned
 
